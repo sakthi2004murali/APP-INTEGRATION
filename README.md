@@ -55,3 +55,8 @@ The Weather Fetcher project submitted as part of the CodTech internship API inte
 
 This project reinforces confidence in integrating third-party services within web applications, an inevitable requirement in modern software development, and lays a strong foundation for upcoming internship projects or job roles involving frontend development, API integration, and dynamic user interfaces.
 
+*OUTPUT*
+
+<img width="954" height="1079" alt="Image" src="https://github.com/user-attachments/assets/8d98c15a-6bb0-4c71-a136-a13d2d6ff441" />
+<img width="961" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4518c34c-d7db-4751-b413-3765768a814e" />
+
